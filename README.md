@@ -2,6 +2,8 @@
 
 A lightweight desktop tool for viewing and deleting your Claude Cowork chat sessions — no installation required beyond Python 3.
 
+<img width="1304" height="762" alt="image" src="https://github.com/user-attachments/assets/4cc8058f-fae8-4885-9aa9-b6850109db63" />
+
 ## What it does
 
 Runs a local web server and opens your browser to a clean dark-themed UI that lists all your Cowork sessions. You can select one or many sessions and permanently delete them, with a confirmation step before anything is removed.
