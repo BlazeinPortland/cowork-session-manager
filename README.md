@@ -8,7 +8,7 @@ A lightweight desktop tool for viewing and deleting your Claude Cowork chat sess
 
 Runs a local web server and opens your browser to a clean dark-themed UI that lists all your Cowork sessions. You can select one or many sessions and permanently delete them, with a confirmation step before anything is removed.
 
-![UI: dark table listing Cowork sessions with checkboxes and a Delete Selected button]
+Dark table listing Cowork sessions with checkboxes and a Delete Selected button
 
 ## Why it exists
 
